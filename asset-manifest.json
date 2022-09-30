@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mineboom32.github.io/csb-osof2r/static/css/main.31ef1f6a.chunk.css",
+    "main.js": "https://mineboom32.github.io/csb-osof2r/static/js/main.e8fed137.chunk.js",
+    "main.js.map": "https://mineboom32.github.io/csb-osof2r/static/js/main.e8fed137.chunk.js.map",
+    "runtime-main.js": "https://mineboom32.github.io/csb-osof2r/static/js/runtime-main.b2cc0177.js",
+    "runtime-main.js.map": "https://mineboom32.github.io/csb-osof2r/static/js/runtime-main.b2cc0177.js.map",
+    "static/js/2.854c4d86.chunk.js": "https://mineboom32.github.io/csb-osof2r/static/js/2.854c4d86.chunk.js",
+    "static/js/2.854c4d86.chunk.js.map": "https://mineboom32.github.io/csb-osof2r/static/js/2.854c4d86.chunk.js.map",
+    "index.html": "https://mineboom32.github.io/csb-osof2r/index.html",
+    "static/css/main.31ef1f6a.chunk.css.map": "https://mineboom32.github.io/csb-osof2r/static/css/main.31ef1f6a.chunk.css.map",
+    "static/js/2.854c4d86.chunk.js.LICENSE.txt": "https://mineboom32.github.io/csb-osof2r/static/js/2.854c4d86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2cc0177.js",
+    "static/js/2.854c4d86.chunk.js",
+    "static/css/main.31ef1f6a.chunk.css",
+    "static/js/main.e8fed137.chunk.js"
+  ]
+}
